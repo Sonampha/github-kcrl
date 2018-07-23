@@ -1,0 +1,19 @@
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+	.func-wrapper{
+		z-index: 10;
+	}
+	#banner-hero{
+		z-index: 0;
+	}
+	.nav-top li.open a.active:after{
+		margin-bottom: -21px;
+	}
+	#banner-hero ul.slick-dots {
+		width: 1000px;
+		z-index: 999;
+	}
+	.pagination-wrapper .paginationjs .paginationjs-pages li.active a, .pagination-wrapper .paginationjs .paginationjs-pages li a:hover{
+		height: auto;
+	}
+}
