@@ -147,6 +147,7 @@ Route::get('/all-contents', function () {
 Route::get('/sampletab', function () {
     return view('pages/sampletab');
 });
-Auth::routes();
 
+
+Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
