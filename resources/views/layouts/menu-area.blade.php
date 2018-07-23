@@ -58,7 +58,10 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="/contact">Contact 2</a></li>
+                                <li>
+                                    <a>Login</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
