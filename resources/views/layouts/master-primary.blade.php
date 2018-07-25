@@ -31,6 +31,7 @@
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ url('/css/style.css') }}" rel="stylesheet">
     <link href="{{ url('/css/responsive.css') }}" rel="stylesheet">
+	<link rel="stylesheet" href="{{ url('/mega-menu/m-menu.css') }}">	
 
     <script src="{{ url('/js/vendor/modernizr-2.8.3.min.js') }}"></script>
     <!--[if lt IE 9]>
@@ -144,7 +145,7 @@
     <!--====== SCRIPTS JS ======-->
     <script src="{{ url('/js/vendor/jquery-1.12.4.min.js') }}"></script>
     <script src="{{ url('/js/vendor/bootstrap.min.js') }}"></script>
-
+	
     <!--====== PLUGINS JS ======-->
     <script src="{{ url('/js/vendor/jquery.easing.1.3.js') }}"></script>
     <script src="{{ url('/js/vendor/jquery-migrate-1.2.1.min.js') }}"></script>
