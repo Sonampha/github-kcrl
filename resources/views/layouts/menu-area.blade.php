@@ -7,11 +7,27 @@ $(document).ready(function() {
 			$(".navbar-collapse").toggle();
 		});
 	});
+
+	var fixmeTop = $('.fixme').offset().top;
+	$(window).scroll(function() {
+		var currentScroll = $(window).scrollTop();
+		if (currentScroll >= fixmeTop) {
+			$('.fixme').css({position: 'fixed',top: '0',left: '0',background:'rgba(0, 0, 153, .4)',});
+			$('.nav').css({padding:'15px 0',transition:'all 1s'});
+			$('.navbar-brand>img').css({margin: '15px 0',width:'100%',transition:'all 1s'});
+		} 
+		if (currentScroll >= 100) {
+			$('.fixme').css({background:'#000099',});
+			$('.nav').css({padding:'0',transition:'all 1s'});
+			$('.navbar-brand>img').css({margin:'0',width:'90%',transition:'all 1s'});			
+		} 
+	});
 });
 </script>
+
 <div class="header-top-area">
     <!--MAINMENU AREA-->
-	<div class="navbar navbar-default navbar-static-top">
+	<div class="navbar navbar-default navbar-static-top fixme">
 	   <div class="container">
 		  <div class="navbar-header">
 			 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
