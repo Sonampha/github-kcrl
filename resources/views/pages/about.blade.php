@@ -25,8 +25,14 @@
                     <div class="about-content-area wow fadeIn">
                         <div class="about-content">
                             <h2>Welcome to KC International Airlines</h2>
-                            <p>KC International Airlines Co., Ltd. is set up as a Sino-Cambodia joint venture with a registered capital of ＄100 million. The establishment of the company is strongly supported by Cambodian National Government and SSCA. The headquarter of the company is located in Phnom Penh International Airport, and with Siem Reap and Port Sihanouk as the main operational bases. KC International Airlines covers the countries such as mainland China, Hong Kong, Taiwan, South Korea, Japan and other ASEAN countries.</p>
-                            <p>KC International Airlines uses the Airbus A320 family as the main aircraft for transport, operating with the ICAO code ‘KCH’ and IATA code ‘3Q’. KC International Airlines commits to provide full-service airlines, and operate popular business routes. Our vision is to become the safest and most popular local airline in Cambodia and the leading airline company in Southeast Asia.</p>                            
+                            <p>KC International Airlines Co., Ltd. is a Sino-Cambodia joint venture which established in Cambodia. The establishment of the company is strongly supported by Cambodian National Government and SSCA. The headquarter of the company is located opposite of Phnom Penh International Airport, and with Siem Reap and Sihanoukville as two main operational bases. KC International Airlines covers routes to China (including Hong Kong, Macao and Taiwan), South Korea, Japan and ASEAN countries.</p>
+                            <p>KC International Airlines uses the Airbus A320 family as the main aircraft for transport, operating with the ICAO code ‘KCH’and IATA code‘3Q’. KC International Airlines commits to provide hybrid service airlines and operate popular business routes. Our vision is to become the safest and most popular local airline in Cambodia and the leading airline company in Southeast Asia.</p>
+							<p>
+								Address: No. C02 Russian Blvd. Sangkat Kakab, Khan Por Senchey<br>
+								Phnom Penh, Kingdom of Cambodia.<br>
+								Postal Code: 12406<br>
+								TEL: +855 (0)23 972 777<br>
+							</p>
                         </div>
                     </div>
                 </div>
