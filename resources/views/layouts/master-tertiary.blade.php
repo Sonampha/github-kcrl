@@ -31,6 +31,7 @@
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ url('/css/style.css') }}" rel="stylesheet">
     <link href="{{ url('/css/responsive.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url('/mega-menu/m-menu.css') }}">	
 
     <script src="{{ url('/js/vendor/modernizr-2.8.3.min.js') }}"></script>
     <!--[if lt IE 9]>

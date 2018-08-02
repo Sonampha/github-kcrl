@@ -16,8 +16,8 @@
     .area-title a:hover{
         color:#d01126;
     }
-    .mainmenu-area {
-        background-color:#000099;
+    .navbar-default {
+        background-color: #000099 !important;
     }
     .service-menu h4 {
         background: #0099ff none repeat scroll 0 0;
